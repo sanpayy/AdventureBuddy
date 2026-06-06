@@ -1,0 +1,13 @@
+{
+  "itemGroup.adventurebuddy": "Example Mod Tab",
+  "block.adventurebuddy.example_block": "Example Block",
+  "item.adventurebuddy.example_item": "Example Item",
+
+  "adventurebuddy.configuration.title": "Example Mod Configs",
+  "adventurebuddy.configuration.section.adventurebuddy.common.toml": "Example Mod Configs",
+  "adventurebuddy.configuration.section.adventurebuddy.common.toml.title": "Example Mod Configs",
+  "adventurebuddy.configuration.items": "Item List",
+  "adventurebuddy.configuration.logDirtBlock": "Log Dirt Block",
+  "adventurebuddy.configuration.magicNumberIntroduction": "Magic Number Text",
+  "adventurebuddy.configuration.magicNumber": "Magic Number"
+}
